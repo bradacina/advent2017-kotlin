@@ -1,0 +1,6 @@
+Lesson learned after advent of code day 1 while looking at other solutions in kotlin
+- use more of the standard library for collections
+- there are zipping utilities
+- there are filtering utilities
+- there is a sum() function
+- there are mapping utilities
