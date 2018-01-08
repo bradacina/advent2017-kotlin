@@ -1,0 +1,4 @@
+Create all possible pairs from each row
+and filter in the first pair where items divide evenly
+
+what is inner@ in line.forEach inner@ { lambda body }
