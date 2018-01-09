@@ -1,0 +1,8 @@
+-sealed class with object class that inherit the sealed class ( direction North, South ....)
+with each having functions that define a move() by 1 square and a turn() that change the direction
+
+- 2D grid -> List<IntArray>
+
+- downTo for decrementing ranges
+
+- apply() function
